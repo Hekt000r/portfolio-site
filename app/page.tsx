@@ -4,7 +4,7 @@ import { Button } from "@heroui/react";
 export default function App() {
 
   return (
-    <div>
+    <div className="h-full">
       <Navbar/>
     </div>
   )
